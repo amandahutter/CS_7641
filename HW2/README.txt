@@ -28,10 +28,13 @@ https://github.com/ahutte01/CS_7641/blob/master/HW2/GT%20CS%207641%20OneMax.ipyn
 
 Tutorial for mlrose: https://github.com/ahutte01/CS_7641/blob/master/HW2/GT%20ahutter6%20Randomized%20Optimization%20Tutorial.ipynb
 
-
-
-
-
-
-
-
+Libraries used on Python3:
+pandas 
+numpy 
+matplotlib 
+sklearn 
+mlrose 
+six 
+os 
+time 
+warnings 
