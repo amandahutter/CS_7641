@@ -1,7 +1,10 @@
 Assignment #2 
 October 11th, 2020
 
-Instructions:
+Analysis Paper: 
+ahutter6-analysis.pdf 
+
+Instructions to Run Code: 
 1. Go to the github repo for the Jupyter notebooks. Download all files into one folder. 
 2. Create a Data folder within this folder, called "Data" 
 3. Download the items for Data 1 and Data 2 to this Data folder 
